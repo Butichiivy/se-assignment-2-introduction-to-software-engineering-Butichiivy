@@ -1,0 +1,53 @@
+Software Engineering is the application of engineering principles to software development. It differs from traditional programming as it includes scoping, processing and team collaboration.
+
+The SDLC is as follows:
+1	Requirement Analysis- requirements are gathered and analyzed to create a requirement specification document.
+2	System design- the architecture, components and interfaces of the intended software are put together.
+3	Implementation- a source code is written according to the design specifications and reviewed.
+4	Testing- Unit testing, integration testing, system testing and acceptance testing is done to validate the software, ensure it meets the requirements and is bug-free.
+5	Deployment- The operational software is installed, configured and deployed to the production environment.
+6	Maintenance- Bug fixes, enhancements and updates are performed to improve the functioning software.
+
+The agile method contains an iterative process, flexibility, continuous feedback, minimal documentation. It is preferred for projects with changing requirements. The Waterfall method on the other hand involves a linear process, rigidity, limited customer involvement, comprehensive documentation. It is preferred for well-defined, low-change projects.
+
+Requirements engineering is the process of defining, documenting, and maintaining software requirements. It involves the identification of stakeholders' needs and ensuring the developed software meets those needs. 
+The process is as follows:
+1 Elicitation: Gathering requirements through interviews, surveys, and observations.
+2 Analysis: Evaluation of the gathered requirements for feasibility and consistency.
+3 Specification: Documenting the requirements in a clear and detailed manner.
+4 Validation: Ensure the requirements are complete, clear, and achievable.
+5 Management: Maintain and manage changes to the requirements over time.
+Requirements engineering is important because of the following:
+1 Clarity: Provides a clear understanding of what is to be built.
+2 Consistency: Ensures all stakeholders are aligned.
+3 Traceability: Facilitates tracking of requirements throughout the project lifecycle.
+
+Modularity involves breaking down a software into modules with a set of related functionalities. This makes software systems more maintainable by isolating changes and simplifying debugging, and more scalable by enabling independent development and easier load distribution. This leads to more efficient development, easier upgrades, and better performance management.
+
+Unit Testing: It tests individual components or functions of the software and ensures each unit performs as intended. Developers use tools such as PyTest and NUnit.
+Integration Testing: Checks the interaction between integrated units and ensures they work together as expected. This helps to identify interface defects between modules.
+System Testing: This tests the complete integrated system as a whole by validating system’s compliance with the specified requirements.
+Acceptance Testing: it tests the system for acceptability and readiness of deployment. It is performed by end users or clients.
+Importance: it ensures the delivery of a high-quality, reliable, and secure product that meets user expectations and requirements.
+
+Version control systems (VCS) are tools that help manage changes to source code over time. They allow multiple developers to work on a project simultaneously without overwriting each other's work.
+They are important because they facilitate collaboration, track development history and support branching for feature development.
+Examples include Git which supports distributed VCS, branching, and merging, supports multiple workflows.
+
+A software project manager is responsible for planning, executing, and closing software projects. They ensure the project is completed on time, within budget, and meets quality standards.
+Their key responsibilities include planning, resource management, risk management, communication and monitoring.
+They face challenges like scope creep, time management, resource constraints and stakeholder expectations.
+
+Software maintenance involves modifying and updating software after its initial deployment to correct faults, improve performance, or adapt to a changed environment. The maintenance types are as follows:Corrective, Adaptive, Perfective, Preventive.
+It is done to ensure longevity,performance and relevance.
+
+Ethical Issues include;
+1 Privacy: Protecting user data from unauthorized access.
+2 Security: Ensuring software is free from vulnerabilities.
+3 Intellectual Property: Respecting copyright and licensing agreements.
+4 Transparency: Being honest about the capabilities and limitations of the software.
+Ethical standards can be adhered to as follows;
+1 Following Code of Ethics: Following professional codes of conduct (e.g., ACM Code of Ethics).
+2 Training: Regular ethical training for developers.
+3 Review Processes: Implementing peer reviews and ethical audits.
+4 User Consent: Ensuring users are informed about how their data is used and obtaining their consent.
